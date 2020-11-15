@@ -17,7 +17,7 @@ Aplicação desenvolvida durante o evento NLW (Next Level Week): uma experiênci
 > :page_facing_up: **Detalhes do Orfanato e Localização**
 <p align="center"><img src="/images/orphanage.png"></p>
 
-> :heavy_plus_sign: **Cadastrar novo Orfanato**
+> :heavy_plus_sign: **Cadastrar Novo**
 <p align="center"><img src="/images/register-orphanage.png"></p>
 
 :gear: **Tencologias utilizadas:**
