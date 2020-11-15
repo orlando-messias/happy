@@ -4,7 +4,7 @@
 
 **Happy** é uma aplicação que conecta pessoas a orfanatos com intuito de fazer o dia de muitas crianças mais feliz!
 
-Aplicação desenvolvida durante o evento NLW (Next Level Week): uma experiência online para evoluir suas habilidades em programação e te elevar para o próximo nível.
+Desenvolvida durante o evento NLW (Next Level Week), uma experiência online para evoluir suas habilidades em programação e te elevar para o próximo nível.
 
 :camera: **Screenshots de telas**
 
