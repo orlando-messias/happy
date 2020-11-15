@@ -8,7 +8,7 @@ Aplicação desenvolvida durante o evento NLW (Next Level Week): uma experiênci
 
 :camera: **Screenshots de telas**
 
-- :house:  **Página Inicial**
+> :house:  **Página Inicial**
 <p align="center"><img src="/images/landing-page.png"></p>
 
 - :round_pushpin: **Mapa dos Orfanatos**
