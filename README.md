@@ -51,3 +51,5 @@ yarn typeorm migration:run
 ## Rode a aplicao backend
 npm run dev
 ```
+##
+Desenvolvido por Orlando Messias
