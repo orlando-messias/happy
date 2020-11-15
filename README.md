@@ -52,4 +52,4 @@ yarn typeorm migration:run
 npm run dev
 ```
 #
-Desenvolvido por Orlando Messias <a href="https://www.linkedin.com/in/orlando-messias-dev" target="_blank">linkedin.com/in/orlando-messias-dev</a>
+Desenvolvido por Orlando Messias [linkedin.com/in/orlando-messias-dev](https://www.linkedin.com/in/orlando-messias-dev)
