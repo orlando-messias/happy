@@ -11,13 +11,13 @@ Aplicação desenvolvida durante o evento NLW (Next Level Week): uma experiênci
 - :house:  **Página Inicial**
 <p align="center"><img src="/images/landing-page.png"></p>
 
-2. *Mapa dos Orfanatos*
+- :round_pushpin: **Mapa dos Orfanatos**
 <p align="center"><img src="/images/orphanages-map.png"></p>
 
-3. *Detalhes do Orfanato e Localização*
+- :page_facing_up: **Detalhes do Orfanato e Localização**
 <p align="center"><img src="/images/orphanage.png"></p>
 
-4. *Cadastrar novo Orfanato*
+- :heavy_plus_sign: **Cadastrar novo Orfanato**
 <p align="center"><img src="/images/register-orphanage.png"></p>
 
 :gear: **Tencologias utilizadas:**
