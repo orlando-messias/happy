@@ -14,7 +14,7 @@ Aplicação desenvolvida durante o evento NLW (Next Level Week): uma experiênci
 > :round_pushpin: **Mapa dos Orfanatos**
 <p align="center"><img src="/images/orphanages-map.png"></p>
 
-> :clipboard: **Detalhes do Orfanato e Localização**
+> :pencil: **Detalhes do Orfanato e Localização**
 <p align="center"><img src="/images/orphanage.png"></p>
 
 > :heavy_plus_sign: **Cadastrar Novo**
