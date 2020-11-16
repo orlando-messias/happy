@@ -11,12 +11,15 @@ Desenvolvida durante o evento NLW (Next Level Week), uma experiência online par
 - :house:  **Página Inicial**
 <p align="center"><img src="/images/landing-page.png"></p>
 
+#
 - :round_pushpin:  **Mapa dos Orfanatos**
 <p align="center"><img src="/images/orphanages-map.png"></p>
 
+#
 - :movie_camera:  **Demo Tour:**
 <p align="center"><img src="/images/demo.gif"></p>
 
+#
 - :movie_camera:  **Demo Cadastro:**
 <p align="center"><img src="/images/demo2.gif"></p>
 
