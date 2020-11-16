@@ -14,7 +14,10 @@ Desenvolvida durante o evento NLW (Next Level Week), uma experiência online par
 > :round_pushpin:  **Mapa dos Orfanatos**
 <p align="center"><img src="/images/orphanages-map.png"></p>
 
-> :movie_camera:  **Demo:**
+> :movie_camera:  **Demo Cadastro:**
+<p align="center"><img src="/images/demo2.gif"></p>
+
+> :movie_camera:  **Demo Tour:**
 <p align="center"><img src="/images/demo.gif"></p>
 
 :gear: **Tencologias utilizadas:**
